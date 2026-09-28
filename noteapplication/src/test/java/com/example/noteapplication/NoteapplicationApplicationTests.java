@@ -1,0 +1,13 @@
+package com.example.noteapplication;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NoteapplicationApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
