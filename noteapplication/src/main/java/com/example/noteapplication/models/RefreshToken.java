@@ -1,4 +1,4 @@
-package com.example.noteapplication.model;
+package com.example.noteapplication.models;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
